@@ -1,4 +1,4 @@
-FROM arangodb/arangodb:3.3.3
+FROM arangodb/arangodb:3.3.14
 MAINTAINER Rho AI <dev@rho.ai>
 
 ENV DEBIAN_FRONTEND noninteractive
